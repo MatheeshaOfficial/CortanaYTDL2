@@ -11,4 +11,4 @@ pyrogram
 feedparser
 requests
 tgcrypto
-youtube_dl
+youtubedl
