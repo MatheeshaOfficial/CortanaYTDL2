@@ -33,7 +33,7 @@ from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from datetime import datetime
 from PIL import Image
-import youtube-dl
+
  
 @Client.on_message(filters.private & filters.regex(pattern=".*http.*"))
 async def echo(bot, update):
