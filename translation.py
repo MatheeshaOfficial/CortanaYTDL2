@@ -25,8 +25,8 @@ In this bot, You can download any youtube video by sending url 😊
 Thumnail කියන්නෙ File එක ලස්සන කරන්න මම දාන පොටෝ එක හොදේ 🤣🙏
 
 Made by @percy_jackson_4🇱🇰
-Support Group : @leosupportx 🇱🇰
-Updates Channel : @new_ehi 🇱🇰
+Support Group : @Cortana_BOTS 🇱🇰
+Updates Channel : @Cortana_Updates 🇱🇰
 """
     ABOUT_TEXT = """
 - **Bot :** `Cortana YouTube Downloader`
