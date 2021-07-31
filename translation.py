@@ -45,23 +45,23 @@ Updates Channel : @new_ehi 🇱🇰
         InlineKeyboardButton('Updates Channel 🗣', url='https://telegram.me/Cortana_Updates'),
         InlineKeyboardButton('Support Group 👥', url='https://telegram.me/Cortana_BOTS')
         ],[
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('About', callback_data='about'),
-        InlineKeyboardButton('Close', callback_data='close')
+        InlineKeyboardButton('🆘Help', callback_data='help'),
+        InlineKeyboardButton('🗄About', callback_data='about'),
+        InlineKeyboardButton('╳Close', callback_data='close')
         ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('About', callback_data='about'),
-        InlineKeyboardButton('Close', callback_data='close')
+        InlineKeyboardButton('🆘Help', callback_data='home'),
+        InlineKeyboardButton('🗄About', callback_data='about'),
+        InlineKeyboardButton('╳Close', callback_data='close')
         ]]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('Close', callback_data='close')
+        InlineKeyboardButton('🆘Help', callback_data='help'),
+        InlineKeyboardButton('╳Close', callback_data='close')
         ]]
     )
     BLOCK_LIST_TEXT = "මේ URL එක බ්ලොක්😪 ඒනිසා මේක ඩවුන්ලෝඩ් බැ😶 මේ යූසර්නේම් එකෙන් ගිහින් බලන්න පොඩ්ඩක්.\n\nUse @Cortana_ANYDLBot 🇱🇰"
